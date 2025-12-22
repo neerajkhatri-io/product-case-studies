@@ -1,124 +1,147 @@
-# Uber Reserve  
-## Reliability, Expectations, and the Gap Between Booking and Trust
-
----
+# Uber Reserve — Improving Adoption Through Reliability & Incentive Alignment
 
 ## Context
 
-Uber Reserve allows users to pre-book rides for a future time, positioning itself as a solution for high-stakes travel such as airport drops, early-morning rides, and time-sensitive commitments.
+Uber Reserve allows users to pre-book rides in advance instead of relying on real-time availability.  
+Despite being particularly useful for **time-sensitive airport travel**, adoption of Uber Reserve among urban professionals has remained lower than expected.
 
-In these scenarios, users are not optimising for speed or price.  
-They are optimising for **certainty**.
-
-This case study explores how reliability is perceived, where trust breaks down, and why advance booking does not automatically translate to user confidence.
+This case study explores **why users still hesitate to trust Reserve**, and how adoption can be improved by addressing both **user anxiety** and **driver incentives**.
 
 ---
 
-## The Problem
+## User & Assumptions
 
-Users choose Uber Reserve because:
-- The ride matters
-- Being late has real consequences
-- Alternatives are limited or risky
+**Primary User**
+- Urban professional
+- Frequent airport traveler
 
-However, despite booking in advance, users often experience:
-- Anxiety close to pickup time
-- Repeated app checks
-- Doubt about whether a driver will actually arrive
-- Confusion about guarantees versus probabilities
+**City Context**
+- Tier-1 city (Bengaluru)
 
-The core issue is not booking availability — it is **trust in execution**.
-
----
-
-## Key Observation
-
-In time-critical scenarios, users equate “reserve” with **assurance**, not just scheduling.
-
-From the user’s perspective:
-- Booking early should reduce uncertainty
-- A confirmed ride should feel closer to a guarantee
-- Silence or ambiguity increases anxiety, not confidence
-
-The product promise and the user’s mental model are misaligned.
+**Key Assumptions**
+- Airport travel is high-stakes and time-sensitive
+- Users are willing to pay a premium for peace of mind
+- Reliability matters more than price for this use case
 
 ---
 
-## Root Cause
+## Job To Be Done (JTBD)
 
-The friction arises from a gap between:
-- **System reliability** (how the platform actually works)
-- **Perceived reliability** (what users believe will happen)
+> **When I am travelling to and from the airport, help me pre-plan and reach on time without uncertainty.**
 
-Contributing factors include:
-- Lack of clear communication about what is guaranteed
-- Minimal reassurance between booking and pickup
-- No explicit acknowledgement of the user’s stakes
-- Over-reliance on backend optimisation to convey trust
-
-Operational reliability alone does not translate into emotional confidence.
+Supporting needs identified:
+- Reliable pickup
+- Pre-planned ride confirmation
+- Luggage-friendly vehicle
+- Pickup during odd hours
+- Traffic-aware planning
+- Peace of mind
 
 ---
 
-## Product Insight
+## Problem Statement
 
-Reliability is not just an operational metric — it is a **user experience outcome**.
+Uber Reserve does **not fully remove the anxiety around pickup reliability** for airport commuters.
 
-In high-stakes moments, users need:
-- Clear expectation-setting
-- Proactive reassurance
-- Signals that the system is actively working on their behalf
-- Transparency around what is and isn’t guaranteed
+Despite booking in advance, users still worry about:
+- Driver cancellations
+- Late arrivals
+- Last-minute uncertainty
 
-Trust must be designed, not assumed.
-
----
-
-## Solution Direction (Conceptual)
-
-Rather than treating Reserve as a delayed version of instant booking, the experience should:
-
-- Set explicit expectations at booking time
-- Acknowledge the importance of the trip
-- Provide proactive reassurance as pickup approaches
-- Communicate contingency handling clearly
-- Reduce ambiguity during the waiting period
-
-The goal is not to increase booking volume, but to **reduce pre-ride anxiety**.
+As a result, many users continue to rely on regular Uber bookings, even for critical trips.
 
 ---
 
-## Why This Matters
+## Root Cause Analysis (RCA)
 
-Similar dynamics exist in products involving:
-- Scheduled services
-- Financial commitments
-- Healthcare appointments
-- Time-sensitive workflows
+### Why is adoption low?
+- Users do not trust that an Uber Reserve cab will arrive on time.
 
-In these cases, reliability is judged less by averages and more by **worst-case outcomes**.
+### Why don’t users trust Reserve?
+- Reserve rides are often delayed or cancelled by drivers.
 
-Designing for trust in these moments is a product responsibility, not just an operations challenge.
-
----
-
-## Learnings
-
-- Advance booking does not automatically create confidence
-- Silence can be interpreted as risk
-- Users value clarity over optimism in high-stakes situations
-- Trust is built through communication, not just fulfillment
+### Why do drivers cancel Reserve rides?
+- Drivers feel the **financial incentive for blocking a time slot is insufficient**.
+- A Reserve ride prevents drivers from accepting potentially higher-paying dynamic trips.
 
 ---
 
-## Reflection
+## Final Root Cause
 
-This case reinforced a key product belief:
+> **Drivers have low financial incentive to honour Uber Reserve bookings**, leading to cancellations, delays, and ultimately lower user trust and adoption.
 
-A product that works most of the time can still feel unreliable if it fails to acknowledge user stakes.
-
-Reliability must be experienced, not inferred.
+The problem is **not feature awareness**, but **incentive misalignment**.
 
 ---
 
-*This case study was developed as part of structured product thinking practice, focusing on expectation management, trust, and user behaviour under uncertainty.*
+## Proposed Solution
+
+### Uber Reserve On-Time Pickup Guarantee (Airport Travel)
+
+A reliability-first experience backed by clear incentives and accountability.
+
+#### Key Elements
+
+- Users can book rides **1–5 days in advance**
+- Uber assigns a driver **75–90 minutes before pickup**
+- If the driver does not move as expected:
+  - A **backup driver is auto-assigned**
+- If backup assignment fails within 30 minutes of pickup:
+  - User is alerted
+  - **₹500 credit** is issued as compensation
+
+---
+
+## Driver Incentive Redesign
+
+To address the core root cause:
+
+- Introduce a **higher base fare premium** for Uber Reserve (₹150–200)
+- **100% of the premium goes directly to the driver**
+- Drivers see **exact earnings before accepting** the ride
+- Reliable drivers get **priority matching** for premium Reserve rides
+
+This ensures drivers are financially rewarded for honouring time-blocked commitments.
+
+---
+
+## Why This Works
+
+### For Users
+- Reduced anxiety for critical trips
+- Predictable, reliable airport pickups
+- Clear accountability when things go wrong
+
+### For Drivers
+- Transparent earnings
+- Better compensation for reserved time
+- Incentives aligned with reliability, not cancellation
+
+### For Uber
+- Higher Reserve adoption
+- Increased trust in pre-booking
+- Better differentiation for airport travel use cases
+
+---
+
+## Key Learnings
+
+- Adoption problems often stem from **system-level incentive misalignment**
+- Reliability cannot be solved through UI alone
+- Trust-based products require:
+  - Clear guarantees
+  - Economic alignment
+  - Visible accountability
+- Solving for both sides of the marketplace is essential
+
+---
+
+## Why This Case Matters
+
+This case demonstrates:
+- Strong JTBD framing
+- Root cause analysis beyond surface symptoms
+- Marketplace thinking (user + driver)
+- Solutions grounded in behavioural and economic realities
+
+It reflects how **trust and adoption improve when incentives are aligned across the system**, not just when features are added.
