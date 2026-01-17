@@ -1,5 +1,6 @@
-# Calm Kitchen  
-## Designing a Low-Stress Meal Planning Experience
+# Decision Fatigue Reduction in Meal Planning UX
+
+Designing a low-stress meal planning experience by reducing cognitive and emotional load during everyday decisions.
 
 ---
 
