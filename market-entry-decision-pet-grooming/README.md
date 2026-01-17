@@ -1,4 +1,8 @@
-# Market Entry Decision — Pet Grooming Services
+# Market Entry Decision for an Emerging Pet Services Category
+
+This project explores the viability of entering the pet grooming and services market by combining user research, behavioural insights, and operational feasibility.
+
+Rather than focusing on feature ideas, the work frames **whether the opportunity should exist at all**, and under what conditions it could scale sustainably.
 
 ## Context
 
