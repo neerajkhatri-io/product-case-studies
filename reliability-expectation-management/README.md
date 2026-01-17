@@ -1,4 +1,4 @@
-# Uber Reserve — Improving Adoption Through Reliability & Incentive Alignment
+# Reliability & Expectation Management in Time-Critical Bookings
 
 ## Context
 
