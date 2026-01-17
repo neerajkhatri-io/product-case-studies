@@ -1,6 +1,9 @@
 # Decision Automation for Capability & Training Prioritisation
 
-Designing a logic-driven decision system to reduce ad-hoc judgment, cognitive load, and inconsistency in skill development decisions within complex organisations.
+Training and capability decisions are often driven by intuition, bias, or ad-hoc judgment.  
+This project designs a **logic-driven decision system** to convert qualitative skill assessments into structured, repeatable training signals.
+
+The goal is to reduce cognitive load, improve consistency, and scale decision quality using automation and AI-assisted workflows.
 
 ---
 
