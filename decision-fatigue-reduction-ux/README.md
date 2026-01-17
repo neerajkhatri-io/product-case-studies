@@ -25,7 +25,11 @@ Users struggle with meal planning due to:
 
 Most solutions optimise for features, not emotional ease.
 
-![Problem Overview](artifacts/Overview.png)
+<img 
+  src="artifacts/Overview.png" 
+  alt="Key User Flow"
+  width="700"
+/>
 ---
 
 ## Key Insight
