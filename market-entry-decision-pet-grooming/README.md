@@ -1,4 +1,4 @@
-# ZeptoPaws — Mobile Pet Grooming Opportunity
+# Market Entry Decision — Pet Grooming Services
 
 ## Context
 
