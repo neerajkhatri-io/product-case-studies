@@ -1,6 +1,9 @@
 # Decision Support for Design Change Impact in Complex Projects
 
-A structured decision-support system to classify, prioritise, and reason about late-stage design changes under time, cost, and delivery constraints.
+Late-stage design changes often create disproportionate risk across cost, time, and delivery.  
+This project explores how structured decision logic and AI-assisted signals can help teams **classify, prioritise, and reason about design changes** without replacing expert judgment.
+
+The focus is on improving consistency, transparency, and speed of decision-making under real-world constraints.
 
 ---
 
