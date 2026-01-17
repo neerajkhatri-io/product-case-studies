@@ -1,6 +1,9 @@
-# Decision Fatigue Reduction in Meal Planning UX
+# Reducing Decision Fatigue Through UX Design
 
-Designing a low-stress meal planning experience by reducing cognitive and emotional load during everyday decisions.
+Many everyday decisions fail not due to lack of options, but due to cognitive overload.  
+This UX exploration focuses on how product design can reduce decision fatigue, emotional friction, and anxiety in recurring choice-heavy scenarios.
+
+The work emphasises clarity, constraint-setting, and trust over feature density.
 
 ---
 
