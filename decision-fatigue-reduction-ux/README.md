@@ -61,6 +61,7 @@ Low-fidelity and interactive prototypes were used to validate flow and intent ra
   alt="Key User Flow"
   width="700"
 />
+<sub>Key flow illustrating low-cognitive-load meal planning progression</sub>
 ---
 
 ## Learnings
