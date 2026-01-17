@@ -1,5 +1,6 @@
-# Applied AI & Automation  
-## Reducing Ad-hoc Training Decisions Through a Structured Decision System
+# Decision Automation for Capability & Training Prioritisation
+
+Designing a logic-driven decision system to reduce ad-hoc judgment, cognitive load, and inconsistency in skill development decisions within complex organisations.
 
 ---
 
