@@ -1,5 +1,6 @@
-# Design Change Impact Intelligence  
-### A Decision-Support Product for Managing Late Changes in Complex Engineering Projects
+# Decision Support for Design Change Impact in Complex Projects
+
+A structured decision-support system to classify, prioritise, and reason about late-stage design changes under time, cost, and delivery constraints.
 
 ---
 
