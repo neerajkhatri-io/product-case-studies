@@ -56,11 +56,7 @@ Low-fidelity and interactive prototypes were used to validate flow and intent ra
 
 ## User Flow
 
-<img 
-  src="artifacts/Flow.png" 
-  alt="Key User Flow"
-  width="700"
-/>
+![System Flow](./artifacts/Flow.png)
 
 <sub>Key flow illustrating low-cognitive-load meal planning progression</sub>
 ---
