@@ -52,7 +52,11 @@ Low-fidelity and interactive prototypes were used to validate flow and intent ra
 
 ## System Flow
 
-![Simple Workflow of the App](artifacts/Flow.png)
+<img 
+  src="artifacts/Flow.png" 
+  alt="Key User Flow"
+  width="700"
+/>
 ---
 
 ## Learnings
