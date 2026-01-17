@@ -49,6 +49,7 @@ The experience was designed to:
 - Emphasise progress over perfection
 
 Low-fidelity and interactive prototypes were used to validate flow and intent rather than visual polish.
+
 ## System Flow
 
 ![Simple Workflow of the App](artifacts/Flow.png)
