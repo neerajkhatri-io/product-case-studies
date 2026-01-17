@@ -1,5 +1,8 @@
-# Zepto AOV — Increasing Average Order Value Through Behavioural Alignment
+# Increasing Order Value Through Behavioural Alignment
 
+This project examines how order value can be increased by aligning pricing and product design with user behaviour rather than aggressive incentives.
+
+Multiple solution paths were explored and prioritised using structured frameworks, focusing on long-term value creation over short-term optimisation.
 ## Context
 
 Zepto operates in a high-frequency, convenience-driven quick commerce space.  
