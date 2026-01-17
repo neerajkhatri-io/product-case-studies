@@ -1,4 +1,7 @@
-# Reliability & Expectation Management in Time-Critical Bookings
+# Designing for Reliability and Expectation Management in High-Stakes Bookings
+
+In time-critical bookings, user trust depends more on predictability than speed.  
+This case analyses how expectation-setting, perceived guarantees, and reliability signals influence user confidence in scheduled ride experiences.
 
 ## Context
 
